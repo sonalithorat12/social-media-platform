@@ -1,0 +1,3 @@
+# Social Media Platform
+
+A Django-based social media platform...
